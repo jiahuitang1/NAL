@@ -1,7 +1,6 @@
-# Natural Language Supervision for Low-light Image Enhancement
+# Illuminating Darkness: A Text-Driven Multimodal Training Approach for Low-Light Image Enhancement
 
- Jiahui Tang, Kaihua Zhou, Zhijian Luo, Yueen Hou and Jiefeng Li
-Robot and Artificial Intelligence Lab, Jiaying University, China
+ Jiahui Tang, Kaihua Zhou, Zhijian Luo, Yueen Hou
 
 ### Testing
 
